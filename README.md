@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gregz9
-- 👀 I’m interested in becoming as good of a developer I can 
-- 🌱 I’m currently studying artificial intelligence and robotics
-- 💞️ I’m looking to collaborate with anyone
+- 
+- Currently studying artificial intelligence and robotics
 - 📫 How to reach me: gregz9988@gmail.com
 
 <!---
