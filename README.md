@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gregz9
+
 - 
 - Currently studying artificial intelligence and robotics
 - 📫 How to reach me: gregz9988@gmail.com
